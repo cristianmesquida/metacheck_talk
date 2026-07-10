@@ -9,10 +9,9 @@ The slides are available here: [Metacheck talk](https://cristianmesquida.github.
 ```text
 ethical_research/
 ├── README.md                  # Repository overview and links
-├── index.html                 # GitHub Pages entry point (embeds slides.pdf)
-├── slides.qmd                 # Quarto source for the slides
+├── index.qmd                  # Quarto source for the slides
+├── index.html                 # Rendered slides
 ├── styles.css                 # Custom CSS for the Quarto slides
-├── slides.pdf                 # Rendered slides
 ├── references.bib             # Bibliography
 └── figures/                   # Figures used in the slides
 ```
