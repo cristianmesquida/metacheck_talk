@@ -7,7 +7,7 @@ The slides are available here: [Metacheck talk](https://cristianmesquida.github.
 ## Repository structure
 
 ```text
-ethical_research/
+metache/
 ├── README.md                  # Repository overview and links
 ├── index.qmd                  # Quarto source for the slides
 ├── index.html                 # Rendered slides
