@@ -2,7 +2,7 @@
 
 This repository contains the slides for my talk on [Metacheck](https://www.scienceverse.org/metacheck/)
 
-The slides are available here: [Metacheck talk]()
+The slides are available here: [Metacheck talk](https://cristianmesquida.github.io/metacheck_talk/)
 
 ## Repository structure
 
